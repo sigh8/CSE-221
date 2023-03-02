@@ -1,0 +1,1 @@
+Patients with same level of seriousness are getting different priorities in different sorting algorithms. As bubble sort is stable, among patients with same level of seriousness the one came first will be served first. But as heap sort is not stable it does not prioritize patients who came first.

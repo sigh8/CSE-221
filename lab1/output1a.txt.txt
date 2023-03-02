@@ -1,0 +1,5 @@
+10 this is even
+19 this is odd
+7 this is odd
+3 this is odd
+100 this is even
